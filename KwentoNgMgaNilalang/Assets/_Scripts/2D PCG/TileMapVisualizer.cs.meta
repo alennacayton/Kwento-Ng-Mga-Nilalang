@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3395a57ee75d474ea3d67fce39afee4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floorTilemap: {instanceID: 0}
+  - wallTilemap: {instanceID: 0}
+  - floorTile: {fileID: 11400000, guid: 471853985ed4b5242ad12af71ace0cf6, type: 2}
+  - wallTop: {fileID: 11400000, guid: 17de16fed6ed8cc4fa8aed5e072ee432, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
