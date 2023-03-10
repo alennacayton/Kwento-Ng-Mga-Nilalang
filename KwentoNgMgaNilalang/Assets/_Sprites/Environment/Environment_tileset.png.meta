@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -103,7 +103,4354 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Environment_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47375078211efd74584c4866c914e16e
+      internalID: -1687565149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d65c18a5a3d754ebc0902c94c2a4ba
+      internalID: -856506823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556061a29ad58a049a555884446b0988
+      internalID: 822185785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504dbd42b7efb9448a33789dd7f1507f
+      internalID: -1311485073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2864d02d8190c8840aae44a735e09e10
+      internalID: 626390177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd96f20c94f43b346997a934944d5a63
+      internalID: 1547548385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47993a203419b5a4cb7e138195f40667
+      internalID: -1430941374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079ee84040a945f44991127f04a2009d
+      internalID: 931775664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea9e11daafe02347939c792ad979624
+      internalID: -407286499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296481858a6cafb48ac6ae302e39287d
+      internalID: -566268632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e22d4548348e874ab7ca8ded2386b8b
+      internalID: 672252719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcb5c034b6353d4e98a38e550009651
+      internalID: 428032906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b8c53c7b6b4f143a8db24ecea46d68
+      internalID: 1808491387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b02345417600b744905b4cbbf0b8899
+      internalID: 48007509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29bf3bfb71347b49b0c18a570a36993
+      internalID: 927639991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55b1ec925cf8ba449b12ba77744ab1c
+      internalID: 332105779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e314420708dfc954ca61188b955841e9
+      internalID: -727252349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be36e8ef80443141998a1d8ceed731d
+      internalID: -1879979190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f1333be90cc974f877d14574855602
+      internalID: 1981794916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e56ca4c8c2179e41a75f27367460775
+      internalID: 83586578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c69dc15f80098d4f84b063bccd6d1b9
+      internalID: 1809421527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8586890b597a9a4184b06daf213886d
+      internalID: 2141517511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c504af58934d2c148b5d78aba9040639
+      internalID: -1903803761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50890556f71ddcd438ab8e8171f78a36
+      internalID: 2009004150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb323eb245524ea4db0b181ff9305ae8
+      internalID: -807590447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8704947c8bb21a449edc3892326a868
+      internalID: 685578947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc449867907108f4abd8fc21bcb8852f
+      internalID: 778420499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb86be124abf180418e8e24fdfca7b4b
+      internalID: -80054136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb5b365fd12afb4aa1880fc72d2bd03
+      internalID: 1046240906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2333601a20d70bb4d8619940ad928132
+      internalID: 1451589755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc86e3098c245440986231fce531fef
+      internalID: 6276539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f8025488ec62444bc6f40702a37356
+      internalID: 1383597962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dc229ba93032644a4502c420747305
+      internalID: -1327656687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d806a8d7b07c4a642ac5ba603a4cbbb4
+      internalID: -1608116453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bb9e086fa0bf04aae6876b14e83a62
+      internalID: -31707773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37f61c7301409344960b203afe553da
+      internalID: -84035326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3208902d869ce41938711a3a20f649
+      internalID: 1219443157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa1b936366896c44bfd9aa09d71119c
+      internalID: 270773787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_38
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea03ac3f162c4a94ba938da3be09027f
+      internalID: 1724354315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4d191e0df25f34886e934558114372
+      internalID: 1624462457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_40
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1e1d4a0471d774ea45b973a9eeaa91
+      internalID: -1844465899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_41
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575975d98322de743996374b364aa92e
+      internalID: 38590733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_42
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfb49922a7d5b34e8cd133b7cd67ef0
+      internalID: -1681015070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_43
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a71037c1e7e984694dafd981d17350
+      internalID: -878294027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_44
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4c21dccce697545bf8003cc97aa478
+      internalID: -126017356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_45
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de55016c57f298d45846b88da87cd6c3
+      internalID: -1627021889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_46
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1086
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990665929d8b2ed43ad193cafe2eefeb
+      internalID: 1561956204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753c08a5fd3c14c44a8bb6aca5388f20
+      internalID: 2143487322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_48
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8cd18a383dbe54d866082439cc1eda
+      internalID: -358099370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_49
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd5704dec4a16e4380f44cbdfe3afb4
+      internalID: -334752182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4843b07b306fb48abfaebb5fba3cfa
+      internalID: -1574018163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0362a274db743c44ac1094694c342e2
+      internalID: 1249038352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fa17aa37913814e8b9dc15e6f459d5
+      internalID: 2049263079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_53
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb179bdf2015ac449bce5f06279d361
+      internalID: -1905055935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_54
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99647c821c29e5c4a9021104be2ce930
+      internalID: 1947735741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_55
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9dadf6cc901934c8788f8305658804
+      internalID: 2106163036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_56
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b3983bddf0c7f42b44e0a524e0ec66
+      internalID: -948263554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_57
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ebb2f39c5e50640a7bd2b4c65cf909
+      internalID: 1814673839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_58
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912a16e20fd55704b86d763159436f0e
+      internalID: 188321255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_59
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7dead771cb5cf46aa0529cc0e5034c
+      internalID: -1067033855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_60
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fac2bc9a07335439d808394bc38808
+      internalID: -1907034589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_61
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbd14ba195c3334caff2bff899ca376
+      internalID: 1626184584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_62
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 986
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c21cafbe5f6a54080149a1c479518c
+      internalID: -1785269396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6ade65ccc1ffb4396836527ab80ffd
+      internalID: 987951274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_64
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4d3aa0a5cf045429d1a908dd8cb4a2
+      internalID: 1696480502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_65
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a89daad8dc12948ba5a8f1b9121f72
+      internalID: -976999288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c7bf3ac546459439ff105cb2c9a2dd
+      internalID: -807660033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507a2d3229dfdfc4b8045d795199bf45
+      internalID: -403673831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_68
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56794730123f23948a8aa21554eecb3d
+      internalID: 633665101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_69
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd41855059599849848851c70daf1c3
+      internalID: 1336598402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_70
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e894fd5f86281248b7270c147f52924
+      internalID: -351956415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_71
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef9c619271f91d47bc006b4cc91c511
+      internalID: -1021094923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_72
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882ffa29a11a1a14e950a349a0f33d2e
+      internalID: 1328637646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_73
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c817451afd02c9c419b4200134eab312
+      internalID: -281946563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_74
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e131584d1a81c459b082eab339e9f0
+      internalID: -945622360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_75
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7e735444c0565468d2dbec4cbce465
+      internalID: -832172347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_76
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91879e2c28fa1dd45a017257a73eb78f
+      internalID: -2013944100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_77
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95598c9e88af3814eb31f17e5a784dbd
+      internalID: -1209343986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_78
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 886
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d12c815ac004f441a1bd86306fe6728
+      internalID: -1460204548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bdd95f8b288a443a356640a0298e28
+      internalID: 523392170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8de7f5cdf0a16f4ca2583b840e3569d
+      internalID: 2023114441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_81
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d74b0d0ac07c29488bbe4368ab71d6c
+      internalID: -853830481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_82
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c30e3b0b769bc428fb52878ca52959
+      internalID: -1002925083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_83
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8b009bd1cdaa94ab7415640651f747
+      internalID: 693175086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_84
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0dbbd4b7481bb47b88563b80fa9a21
+      internalID: 442511397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_85
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b945eb84bb7e14396fd91f3c7044dd
+      internalID: 821233258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_86
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c792175229b80d47ab11d84cecdc2bb
+      internalID: 386727509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_87
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9242ff8ff8e9048409180bf07282558d
+      internalID: -503900931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_88
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43535c97eceedd7479194126fb040d7c
+      internalID: 1398053198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_89
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1600fcb59f6ad4f83b47611b58bcf4
+      internalID: -1720393701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_90
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e646fe34ec68c4fbc3a4f2b4f23c19
+      internalID: 2136285545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_91
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d2f89af8214d34d878b8722ca97db7
+      internalID: -1702579883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_92
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7047d807da3397145b8a7d1dfeda6b9f
+      internalID: 267297440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_93
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f01e7c8b970e14eb05db6c3751124d
+      internalID: -331827298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_94
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 786
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50e6d47c2cc761488feb70d9eb9018f
+      internalID: 1547482241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e741911aaaae6534eb4cb7ae9040c882
+      internalID: 1354936179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_96
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38981b6651df39c4abd20c189c03ce92
+      internalID: -242046535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_97
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76bdb90aff25ce48b90a5ae6fa3fff8
+      internalID: 1395868338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_98
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea453029c9d1a704f82a2086027848f0
+      internalID: 380040265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_99
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ab6551fd6d6a245a94b22d296596e2
+      internalID: -2068224410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_100
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6cde3229cb40f4c87879566c419a90
+      internalID: -838202357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_101
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c7c287f20ff02408be59768e44f866
+      internalID: 1012056484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_102
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d815d6cfc0ac87489179503ec63cabf
+      internalID: 939145039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_103
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5a224a3e9e56e44a00524132712379
+      internalID: -365609778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_104
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ad8289db2b093448af878d43c9b492
+      internalID: 1986668848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_105
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbb79ddd96903e4b8b1fc9dea16bf14
+      internalID: 1427013379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_106
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6c3d82cb10e924a97dcf5f9a8f00cc
+      internalID: -593430830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_107
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db01738ba2a641c418de18c779202713
+      internalID: 1189161225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_108
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff48869ed9528b44996ebe79df8e0f6
+      internalID: 423187794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_109
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ac057e3812c2c4686f01b6b75a6495
+      internalID: 239866317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_110
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 686
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248fd7ea959a7574da25dd9f912081a5
+      internalID: 1695165083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf14dcffdac981d4da3533cc54838a38
+      internalID: 1793414021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_112
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fc516256213fa47b25f0e5a450feb3
+      internalID: -972284344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_113
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1946eb53df9f4aa46897d3fdb285c1f2
+      internalID: 1501747653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_114
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4141864f18c4d624bb6865b5ec57ea6e
+      internalID: -1937998980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_115
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d726c60d3e35d42b6c47295fe06941
+      internalID: 400855934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_116
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d0b5bf194446b41a49430f5fbc0cf7
+      internalID: -1344517973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_117
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed675e1a994fa14aa285abd002462f4
+      internalID: -1285048704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_118
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eac09b329f7ae4fbd0bce5e95e84c9
+      internalID: 1657510740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_119
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b2268f9023ad642ad4e1d6f9ed3b09
+      internalID: -616210550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_120
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba78197c3a051d47b3f5bf72a3000bf
+      internalID: -1137192560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_121
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353d6e6df8c3aae48bf41649a0d86ce3
+      internalID: 881966058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_122
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27a4c70e6133a94b8034e9309ab1cbc
+      internalID: -142409174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_123
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28590265ced4b514c950270c8989ce2b
+      internalID: -2120567966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_124
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dd0a09eeade0b4f8709b0334f23ea9
+      internalID: -1053037450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_125
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158c3cf02be1bc34d9c9042909615523
+      internalID: -1170115338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_126
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 586
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b2e54f1aa4acc488d447b1e86f8e94
+      internalID: 2069348352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859b56179226aa441ab22873d09ab61c
+      internalID: 1052796161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_128
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61801edf8d9cfd4a8de5680651c081c
+      internalID: 921608482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_129
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffc729e32e9f704ab2d924a13712798
+      internalID: -461285614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_130
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907e47d08b379924baa2a47d4b044662
+      internalID: -1037428626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_131
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fe053cc358aff46af17e688c665bd5
+      internalID: 964432124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_132
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ef31a067682624b9cb17de0203aef4
+      internalID: 707679498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_133
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597855643b9f708488a9e13669b01ab6
+      internalID: -2139291748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_134
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b2f482e16618b41adcec3b6f75aebf
+      internalID: 1894261701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_135
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c069fd7d3d21f4bb065058efaab362
+      internalID: 1563648465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_136
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56c066c99ba11545b7b2d0f7eb189b2
+      internalID: 247657811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_137
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738bd40bc6280c84db9bf4a367afc1fe
+      internalID: 1168530296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_138
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1753487cfc9c2c449c7dcc9df4eddff
+      internalID: 619348268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_139
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd435d8826acee4d9e32291247e8268
+      internalID: 403109539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_140
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67651b99df440f04d995758d8d8dd877
+      internalID: -1406789078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_141
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ab43e1a0195d145b19a29398fab39a
+      internalID: -791027214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_142
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 486
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8ee5a59f6e1674db36ee02a0f1c8ad
+      internalID: 581059805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a555ff542145d16499bae446816b43df
+      internalID: -548417059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_144
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d201114739a284785b04b8c641456b
+      internalID: -1881983378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_145
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4e6115cff16e84eb8d254b77e81723
+      internalID: -1214402165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_146
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9421ad3b98716428530c7f97c54fe4
+      internalID: -1919794388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_147
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636ebe25cc66aa74888d09ef3abf692d
+      internalID: 1495598841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_148
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708455ad02a81f94cba1832f03fd032f
+      internalID: -389596905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_149
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee48747d9b48fd24780fcef87097ca96
+      internalID: -417905517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_150
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aa51c4536307648b5d45c520f920c8
+      internalID: 1745220650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_151
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0456c4ca0058eea469dbc693e372a55c
+      internalID: -1282927648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_152
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328cb52e32571e443a1e70486fc8e771
+      internalID: 932496957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_153
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f903d3dcc64cf96478ed9929ae6efdf7
+      internalID: 87736206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_154
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c552c62bdb7966b47ac024b90bf2c80a
+      internalID: -1351318014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_155
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b13fb7add8c4884f8975d0345df416c
+      internalID: 1509605507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_156
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0bef972b9cb084e95e4007f463b957
+      internalID: -21089503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_157
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a9eb96d38d744db1b2d152644e0f4
+      internalID: -1300509679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_158
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 386
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea3b6f3c84e14d4a8a0cf213d0583a2
+      internalID: 838478854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0153f4caf0db3448856d9003d860e04
+      internalID: 1117912282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_160
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51abba6414f447e4e93026bb27b6803f
+      internalID: -693319996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_161
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2dee6ce0877ea45bd612de45e960ac
+      internalID: 1863485379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_162
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38732025f6f9ba846abf6d5b43e19f89
+      internalID: -655870334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_163
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b904132428c293543a5711c825d24953
+      internalID: -178725376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_164
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15946102ce94dfe4c9c39fe4d982d7ba
+      internalID: 821660464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_165
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0b7284d3c0068439590d06e9024e33
+      internalID: 2066340291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_166
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab6525fa400a6542891e7e5811d534a
+      internalID: 1586371193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_167
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7062a5bccd69146478c68f57fa13c101
+      internalID: -2072519933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_168
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647d4523999bfbb4181c9f6cbc9838b0
+      internalID: 1499255017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_169
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab945273af4127458f012b83f526a58
+      internalID: 22450208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_170
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bcc0a8ce77cf646a29fd2c6f3a6de3
+      internalID: -1180181003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_171
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c67053dcba8b444c8fc9b6504ac410f
+      internalID: 1710445643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_172
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f119b3c865b704fa4d7d2ba94e36f8
+      internalID: -1320501771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_173
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98905739260ea814aae715879539bd2e
+      internalID: -1837392684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_174
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 286
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faefe270cff8e394d9272234a380a128
+      internalID: 1365487500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e18830990a2c3b4aa12457da8cc99ac
+      internalID: 656950502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_176
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc58d0723eeaef34a86bfd0d6afbd98d
+      internalID: 1616846542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_177
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c18a5d4998fef429e04d485b614695
+      internalID: 677675348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_178
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f5457a6131df24a91bb5cde5d8fc3e
+      internalID: 725941450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_179
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce2aafe55dda7d4c99707a2825339b1
+      internalID: -1969893896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_180
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28726f3c33996094f80975d2ed4c9d6c
+      internalID: 1344083212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_181
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03488fef4d86d24b97d8275a28038c7
+      internalID: 343587057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_182
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da5b934e12b59445a8144d470737f68
+      internalID: 1878406173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_183
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b429a2b3af331e429c02ca8625747f4
+      internalID: -858464387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_184
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d816d9d3d3a8c1448eeff83d7d8f75f
+      internalID: 615181307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_185
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8bcd5a361dd2041964cd1ecbf44877
+      internalID: -1359626074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_186
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5329811a2ef1d9e44ab038e8a0331920
+      internalID: -779380739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_187
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ce9710a2c37c04fab0b1b87c8fbae5
+      internalID: -1078839943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_188
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e093d71c154682c46894b9c15c821825
+      internalID: 1487220444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_189
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da35239e67f2b3f43bc0d8711a5d900b
+      internalID: 557664417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_190
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 186
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081bc079919d2704983b71e5ba04900f
+      internalID: -548431625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2168e344733c5947955dcdee3bd3a1b
+      internalID: -322456234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_192
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012a6e335b8e1004490d5879ec7998e1
+      internalID: 220008447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_193
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab2241809855394b9cdc61db9fad946
+      internalID: -1485298592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_194
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afb7bbc2a012f54c8c556db25481d7b
+      internalID: -2073543178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_195
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2909bd98f8e2f5f4494102e2a0153cc9
+      internalID: 278128315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_196
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1c522985352ba418854d76a1f78ffd
+      internalID: -1044274271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_197
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4296631031e584c9a5501515e1aa06
+      internalID: -1659345708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_198
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7d1bb56b54fa04489f893b2b909fb3
+      internalID: 419718999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_199
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afb55e459f76744bbeb1d672432f2d5
+      internalID: -1110184431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_200
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034c6d688b1be3e448923016518ec7b2
+      internalID: 2060481193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_201
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9676e0c18e38b3d458c804230b7973f8
+      internalID: 1230808284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_202
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0976d837fc388c746810f23ee9c3d041
+      internalID: 686992911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_203
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad2858c1642cdd4ebf6719a31a824f9
+      internalID: 1186731053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_204
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1f00995ab528f44aff845cb8a81ca9
+      internalID: -2008596243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_205
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aefab51abe2dc84086b4e6cac414039
+      internalID: 1060879700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Environment_tileset_206
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 86
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95035190b6b628c49ad5025a89ef222b
+      internalID: -465400533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +4461,214 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Environment_tileset_1: -856506823
+      Environment_tileset_63: 987951274
+      Environment_tileset_88: 1398053198
+      Environment_tileset_27: -80054136
+      Environment_tileset_68: 633665101
+      Environment_tileset_77: -1209343986
+      Environment_tileset_170: -1180181003
+      Environment_tileset_178: 725941450
+      Environment_tileset_192: 220008447
+      Environment_tileset_125: -1170115338
+      Environment_tileset_127: 1052796161
+      Environment_tileset_23: 2009004150
+      Environment_tileset_9: -566268632
+      Environment_tileset_20: 1809421527
+      Environment_tileset_119: -616210550
+      Environment_tileset_80: 2023114441
+      Environment_tileset_112: -972284344
+      Environment_tileset_36: 1219443157
+      Environment_tileset_92: 267297440
+      Environment_tileset_65: -976999288
+      Environment_tileset_74: -945622360
+      Environment_tileset_126: 2069348352
+      Environment_tileset_42: -1681015070
+      Environment_tileset_73: -281946563
+      Environment_tileset_173: -1837392684
+      Environment_tileset_151: -1282927648
+      Environment_tileset_114: -1937998980
+      Environment_tileset_120: -1137192560
+      Environment_tileset_22: -1903803761
+      Environment_tileset_160: -693319996
+      Environment_tileset_149: -417905517
+      Environment_tileset_82: -1002925083
+      Environment_tileset_202: 686992911
+      Environment_tileset_69: 1336598402
+      Environment_tileset_190: -548431625
+      Environment_tileset_187: -1078839943
+      Environment_tileset_107: 1189161225
+      Environment_tileset_64: 1696480502
+      Environment_tileset_66: -807660033
+      Environment_tileset_153: 87736206
+      Environment_tileset_185: -1359626074
+      Environment_tileset_51: 1249038352
+      Environment_tileset_150: 1745220650
+      Environment_tileset_43: -878294027
+      Environment_tileset_41: 38590733
+      Environment_tileset_76: -2013944100
+      Environment_tileset_115: 400855934
+      Environment_tileset_45: -1627021889
+      Environment_tileset_84: 442511397
+      Environment_tileset_180: 1344083212
+      Environment_tileset_182: 1878406173
+      Environment_tileset_31: 1383597962
+      Environment_tileset_183: -858464387
+      Environment_tileset_13: 48007509
+      Environment_tileset_16: -727252349
+      Environment_tileset_197: -1659345708
+      Environment_tileset_121: 881966058
+      Environment_tileset_3: -1311485073
+      Environment_tileset_169: 22450208
+      Environment_tileset_24: -807590447
+      Environment_tileset_159: 1117912282
+      Environment_tileset_128: 921608482
+      Environment_tileset_181: 343587057
+      Environment_tileset_81: -853830481
+      Environment_tileset_123: -2120567966
+      Environment_tileset_21: 2141517511
+      Environment_tileset_198: 419718999
+      Environment_tileset_28: 1046240906
+      Environment_tileset_144: -1881983378
+      Environment_tileset_139: 403109539
+      Environment_tileset_11: 428032906
+      Environment_tileset_122: -142409174
+      Environment_tileset_200: 2060481193
+      Environment_tileset_72: 1328637646
+      Environment_tileset_189: 557664417
+      Environment_tileset_44: -126017356
+      Environment_tileset_70: -351956415
+      Environment_tileset_30: 6276539
+      Environment_tileset_49: -334752182
+      Environment_tileset_203: 1186731053
+      Environment_tileset_103: -365609778
+      Environment_tileset_38: 1724354315
+      Environment_tileset_96: -242046535
+      Environment_tileset_90: 2136285545
+      Environment_tileset_10: 672252719
+      Environment_tileset_5: 1547548385
+      Environment_tileset_34: -31707773
+      Environment_tileset_25: 685578947
+      Environment_tileset_55: 2106163036
+      Environment_tileset_191: -322456234
+      Environment_tileset_201: 1230808284
+      Environment_tileset_171: 1710445643
+      Environment_tileset_168: 1499255017
+      Environment_tileset_109: 239866317
+      Environment_tileset_14: 927639991
+      Environment_tileset_166: 1586371193
+      Environment_tileset_94: 1547482241
+      Environment_tileset_32: -1327656687
+      Environment_tileset_52: 2049263079
+      Environment_tileset_29: 1451589755
+      Environment_tileset_155: 1509605507
+      Environment_tileset_196: -1044274271
+      Environment_tileset_131: 964432124
+      Environment_tileset_167: -2072519933
+      Environment_tileset_26: 778420499
+      Environment_tileset_116: -1344517973
+      Environment_tileset_2: 822185785
+      Environment_tileset_164: 821660464
+      Environment_tileset_158: 838478854
+      Environment_tileset_124: -1053037450
+      Environment_tileset_91: -1702579883
+      Environment_tileset_4: 626390177
+      Environment_tileset_19: 83586578
+      Environment_tileset_184: 615181307
+      Environment_tileset_89: -1720393701
+      Environment_tileset_37: 270773787
+      Environment_tileset_60: -1907034589
+      Environment_tileset_71: -1021094923
+      Environment_tileset_157: -1300509679
+      Environment_tileset_104: 1986668848
+      Environment_tileset_188: 1487220444
+      Environment_tileset_111: 1793414021
+      Environment_tileset_79: 523392170
+      Environment_tileset_59: -1067033855
+      Environment_tileset_95: 1354936179
+      Environment_tileset_35: -84035326
+      Environment_tileset_156: -21089503
+      Environment_tileset_206: -465400533
+      Environment_tileset_15: 332105779
+      Environment_tileset_176: 1616846542
+      Environment_tileset_154: -1351318014
+      Environment_tileset_87: -503900931
+      Environment_tileset_54: 1947735741
+      Environment_tileset_162: -655870334
+      Environment_tileset_118: 1657510740
+      Environment_tileset_161: 1863485379
+      Environment_tileset_174: 1365487500
+      Environment_tileset_199: -1110184431
+      Environment_tileset_39: 1624462457
+      Environment_tileset_132: 707679498
+      Environment_tileset_117: -1285048704
+      Environment_tileset_195: 278128315
+      Environment_tileset_142: 581059805
+      Environment_tileset_177: 677675348
+      Environment_tileset_67: -403673831
+      Environment_tileset_193: -1485298592
+      Environment_tileset_57: 1814673839
+      Environment_tileset_100: -838202357
+      Environment_tileset_102: 939145039
+      Environment_tileset_130: -1037428626
+      Environment_tileset_165: 2066340291
+      Environment_tileset_194: -2073543178
+      Environment_tileset_86: 386727509
+      Environment_tileset_148: -389596905
+      Environment_tileset_205: 1060879700
+      Environment_tileset_146: -1919794388
+      Environment_tileset_147: 1495598841
+      Environment_tileset_12: 1808491387
+      Environment_tileset_106: -593430830
+      Environment_tileset_113: 1501747653
+      Environment_tileset_46: 1561956204
+      Environment_tileset_172: -1320501771
+      Environment_tileset_134: 1894261701
+      Environment_tileset_204: -2008596243
+      Environment_tileset_6: -1430941374
+      Environment_tileset_152: 932496957
+      Environment_tileset_97: 1395868338
+      Environment_tileset_110: 1695165083
+      Environment_tileset_0: -1687565149
+      Environment_tileset_50: -1574018163
+      Environment_tileset_58: 188321255
+      Environment_tileset_186: -779380739
+      Environment_tileset_48: -358099370
+      Environment_tileset_40: -1844465899
+      Environment_tileset_141: -791027214
+      Environment_tileset_33: -1608116453
+      Environment_tileset_145: -1214402165
+      Environment_tileset_85: 821233258
+      Environment_tileset_129: -461285614
+      Environment_tileset_135: 1563648465
+      Environment_tileset_75: -832172347
+      Environment_tileset_140: -1406789078
+      Environment_tileset_8: -407286499
+      Environment_tileset_175: 656950502
+      Environment_tileset_99: -2068224410
+      Environment_tileset_7: 931775664
+      Environment_tileset_56: -948263554
+      Environment_tileset_53: -1905055935
+      Environment_tileset_78: -1460204548
+      Environment_tileset_83: 693175086
+      Environment_tileset_101: 1012056484
+      Environment_tileset_18: 1981794916
+      Environment_tileset_105: 1427013379
+      Environment_tileset_133: -2139291748
+      Environment_tileset_163: -178725376
+      Environment_tileset_62: -1785269396
+      Environment_tileset_136: 247657811
+      Environment_tileset_138: 619348268
+      Environment_tileset_98: 380040265
+      Environment_tileset_143: -548417059
+      Environment_tileset_93: -331827298
+      Environment_tileset_108: 423187794
+      Environment_tileset_137: 1168530296
+      Environment_tileset_17: -1879979190
+      Environment_tileset_47: 2143487322
+      Environment_tileset_61: 1626184584
+      Environment_tileset_179: -1969893896
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
