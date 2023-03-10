@@ -5,15 +5,15 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
 
-    public float moveSpeed;
-    public Rigidbody2D rigBody;
+    [SerializeField] private float moveSpeed = 10;
+    private Rigidbody2D rigBody;
     private Vector2 moveInput;
 
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        rigBody = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
