@@ -21,6 +21,7 @@ public class ChestScript : MonoBehaviour
         isInRange = false;
         interactKey = KeyCode.E;
         GetComponent<CircleCollider2D>().radius = triggerRadius;
+
         spriteRenderer = GetComponent<SpriteRenderer>();
         spriteRenderer.sprite = chestClosed;
     }
