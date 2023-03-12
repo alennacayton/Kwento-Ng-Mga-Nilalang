@@ -25,7 +25,7 @@ public class PlayerRoom : RoomGenerator
         List<GameObject> placedObjects =
             prefabPlacer.PlaceAllItems(itemData, itemPlacementHelper);
     
-        /*
+        
         Vector2Int playerSpawnPoint = roomCenter;
 
         GameObject playerObject
@@ -33,7 +33,7 @@ public class PlayerRoom : RoomGenerator
 
         placedObjects.Add(playerObject);
 
-        */
+        
         return placedObjects;
     }
 }
